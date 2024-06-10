@@ -36,7 +36,6 @@ def main():
             print_congratulations(question_type)
         else:
             print_correct_answer(die_1_value, die_2_value, question_type)
-
     ### write code to complete this function ABOVE here ###
     print("")  # line break
     print("Game over!!!")
